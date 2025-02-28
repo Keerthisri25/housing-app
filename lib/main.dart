@@ -12,7 +12,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyBVX59iX7oJLscwnFV5fHzZTZNDtCZx2Ac",
+        apiKey: "***************************************",
         authDomain: "housing-app-f987d.firebaseapp.com",
         projectId: "housing-app-f987d",
         storageBucket: "housing-app-f987d.appspot.com",
