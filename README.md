@@ -25,4 +25,4 @@ Edit and update user profiles.
 ## Screenshots
 
 ### Home Page
-![alt text]([explore.png](https://github.com/Keerthisri25/housing-app/blob/05e1a181b90f8f9dce260a0dc4cbd7e388206697/explore.jpg))
+![alt text](https://github.com/Keerthisri25/housing-app/blob/05e1a181b90f8f9dce260a0dc4cbd7e388206697/explore.jpg)
