@@ -25,4 +25,4 @@ Edit and update user profiles.
 ## Screenshots
 
 ### Home Page
-
+![alt text](explore.png)
